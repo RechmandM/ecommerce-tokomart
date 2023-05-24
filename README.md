@@ -17,6 +17,7 @@
 **Aplikasi ini tidak dipublikasikan, silahkan kontak developer untuk info lebih lanjut**
   
 #### Lihat aplikasi disini : [TokoMart](https://tokomart.id)
+#### Disarankan buka melalui HP atau tablet
 
 *"By Rechmand M"*
 
